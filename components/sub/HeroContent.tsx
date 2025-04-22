@@ -57,7 +57,7 @@ const HeroContent = () => {
         >
           <span className="absolute inset-0 bg-gradient-to-r from-purple-600 via-blue-500 to-cyan-400 opacity-30 blur-lg"></span>
           <span className="relative z-10 flex items-center justify-center gap-2">
-            Join the Waitlist
+            #staytuned
           </span>
         </motion.a>
       </div>
@@ -67,7 +67,7 @@ const HeroContent = () => {
         className="w-full h-full flex justify-center items-center"
       >
         <Image
-          src="/ICON1.pn"
+          src="/ICON1.png"
           alt="work icons"
           height={650}
           width={650}
